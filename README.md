@@ -7,7 +7,6 @@
 + 编程能力：Python PHP JAVA(Android) Ruby Golang C\C++ .net NodeJS ；<br> 
 -> PS：基本阅读能力，一半左右可以上手写代码哦 【:( 也不清楚以后还能记住多少⚡；
 + 漏挖能力：大约有百来个吧，留给几位老东家部分没细数哈；
-+ 曾从业：网工 安服 研究员 蓝军 红军；
 + 目前自研关注：鸿蒙ListOS-A，欢迎大佬们交流哈 ~
 + 著作：《Web渗透攻防实战》
 + 专栏&博客：https://issnm.blog.csdn.net/ & https://www.freebuf.com/author/米怀特
