@@ -1,7 +1,5 @@
 ![SkyBlueEternal's github stats](https://github-readme-stats.vercel.app/api?username=SkyBlueEternal&theme=radical) 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${SkyBlueEternal+SkyBlueEternal})
-
 ### 💬个人介绍
 
 #### 一位热爱安全研究的同学，如果没更新Github或者博客，那一定是研究新玩意去了。🤔
