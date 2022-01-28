@@ -1,6 +1,6 @@
 ![SkyBlueEternal's github stats](https://github-readme-stats.vercel.app/api?username=SkyBlueEternal&theme=radical) 
 
-![IMG](https://s05.flagcounter.com/map/eSrb/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/)
+<a href="https://info.flagcounter.com/eSrb"><img src="https://s05.flagcounter.com/map/eSrb/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 ### 💬个人介绍
 
