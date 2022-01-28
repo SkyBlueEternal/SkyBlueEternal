@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=SkyBlueEternal&show_icons=true&theme=dracula
+![SkyBlueEternal's github stats](https://github-readme-stats.vercel.app/api?username=SkyBlueEternal&theme=radical) 
 
 ### 💬个人介绍
 
