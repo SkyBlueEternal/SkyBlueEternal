@@ -1,6 +1,6 @@
 ![SkyBlueEternal's github stats](https://github-readme-stats.vercel.app/api?username=SkyBlueEternal&theme=radical) 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${SkyBlueEternal/SkyBlueEternal})
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${SkyBlueEternal+SkyBlueEternal})
 
 ### 💬个人介绍
 
